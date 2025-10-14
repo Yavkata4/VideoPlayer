@@ -56,10 +56,20 @@ app/
  └── AndroidManifest.xml
 
 Screenshots-
-<img width="50%" height="2772" alt="image" src="https://github.com/user-attachments/assets/44d006dc-1f4e-4bd6-8951-cf6f7e9f6a6a" />
-<img width="50%" height="2772" alt="image" src="https://github.com/user-attachments/assets/7ffe091f-a138-479d-a5f5-077f30462b7b" />
-<img width="50%" height="2772" alt="image" src="https://github.com/user-attachments/assets/427d8afa-d2b5-4e4d-9af4-0ce79262a8e1" />
-<img width="50%" height="2772" alt="image" src="https://github.com/user-attachments/assets/60cb8530-07bc-41d8-a2dd-bc1ba5034687" />
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/44d006dc-1f4e-4bd6-8951-cf6f7e9f6a6a" width="49%" alt="Left image" />
+  <img src="https://github.com/user-attachments/assets/7ffe091f-a138-479d-a5f5-077f30462b7b" width="49%" alt="Right image" />
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/427d8afa-d2b5-4e4d-9af4-0ce79262a8e1" width="49%" alt="Left image" />
+  <img src="https://github.com/user-attachments/assets/60cb8530-07bc-41d8-a2dd-bc1ba5034687" width="49%" alt="Right image" />
+</div>
+
+
 <img width="2772" height="1280" alt="image" src="https://github.com/user-attachments/assets/82cc7c15-57a0-4000-bbb9-5d7ed18f36b7" />
 <img width="2772" height="1280" alt="image" src="https://github.com/user-attachments/assets/40c6d5b3-049b-4bde-944a-5c6784e37348" />
 

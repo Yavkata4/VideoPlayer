@@ -47,8 +47,16 @@ Use the slider or hardware buttons to control volume.
 Rotate device — video maintains correct aspect ratio.
 
 
-<pre> \\\Project structure app/ ├── java/com/example/videoplayer/ │ ├── MainActivity.kt │ ├── SplashActivity.kt │ └── ui/theme/ ├── res/values/themes.xml └── AndroidManifest.xml \\\ </pre>
- 
+```
+Project structure  
+app/  
+ ├── java/com/example/videoplayer/  
+ │    ├── MainActivity.kt  
+ │    ├── SplashActivity.kt  
+ │    └── ui/theme/  
+ ├── res/values/themes.xml  
+ └── AndroidManifest.xml  
+```
 
 
 Screenshots-
